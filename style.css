@@ -1,0 +1,12 @@
+#header-text {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+#search-button {
+    height: 40px;
+    width: 60px;
+    font-size: small;
+}
